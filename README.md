@@ -31,7 +31,7 @@ Created to practice various aspects of Jupyter Lab to explore the advanced featu
 The main jupyter Notebook assignment_07.ipynb remains outside this repository (and submitted seperately).Two ipynb that are included, question11.ipynb and question12.ipynb along with the associated files required to run.
 
 ## Repository structure
-
+```
 jupyterlab_practice/
 |
 |- .gitignore
@@ -49,3 +49,4 @@ jupyterlab_practice/
 |
 |- reports/
     |-question12.html
+```
