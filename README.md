@@ -30,3 +30,22 @@ Created to practice various aspects of Jupyter Lab to explore the advanced featu
 ## git repo contents included here
 The main jupyter Notebook assignment_07.ipynb remains outside this repository (and submitted seperately).Two ipynb that are included, question11.ipynb and question12.ipynb along with the associated files required to run.
 
+## Repository structure
+
+jupyterlab_practice/
+|
+|- .gitignore
+|- README.md
+|- environment.yaml
+|- license.md
+|
+|- image/
+|   |- question11.png
+|   |- question12.png
+|
+|- notebooks/
+|   |- question11.ipynb
+|   |- question12.ipynb
+|
+|- reports/
+    |-question12.html
